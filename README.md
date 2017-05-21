@@ -7,7 +7,7 @@ collectors. BPM proactively monitors enterprise applications in real time, ident
 availability problems before users experience them. It enables you to monitor sites from various locations,
 emulating the end-user experience, and so assess site performance from different client perspectives.
 
-This is a project allow enable BMP users to connect BMP to ChatOps tools and  contains the source code of a npm package for a Hubot integration.
+This is a project allow enable BPM users to connect BPM to ChatOps tools and  contains the source code of a npm package for a Hubot integration.
 
 ## Installation
 
